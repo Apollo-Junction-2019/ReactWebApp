@@ -1,0 +1,28 @@
+.main-page {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    /* align-items: center; */
+    margin-top: -16px;
+    height: 100%;
+    width: 100%;
+    /* background-image: url('https://media.giphy.com/media/OK5LK5zLFfdm/giphy.gif'); */
+    /* background-repeat: no-repeat;
+    background-size: 100% 100%; */
+}
+
+.main-page .top-banner {
+    position: absolute;
+    background-color: rgb(249, 246, 246);
+    padding-top: 10px;
+    display: flex;
+    width: 100%;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.top-banner .image {
+    height: 60px;
+}

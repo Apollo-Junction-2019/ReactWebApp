@@ -1,0 +1,11 @@
+export const SAMPLE_IMAGE = require('./sampleImage.png');
+export const HEART = require('./heart.svg');
+export const SHARE = require('./share.svg');
+export const WHITE_CIRCLE = require('./whiteCircle.png');
+export const CHAR_ICON = require('./icon.svg');
+export const START_BUTTON = require('./StartButton.svg');
+export const MAIN_PAGE_GIf = require('./mainPageGif.gif');
+export const MAIN_PAGE_OVERLAY = require('./mainPageOverlay.svg');
+export const OKAY_BUTTON = require('./OkayButton.svg');
+// export const MAIN_LOGO = require('./mainLogo.svg');
+export const MAIN_LOGO = require('./Logo (1).svg');
